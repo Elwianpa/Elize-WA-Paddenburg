@@ -1,4 +1,4 @@
-_9 November - kick off_
+**_9 November - kick off_**
 <br>
 <br>
 Ik heb de instructies gevolgd op DLO van de Kick-off. Programmeren is bijna helemaal nieuw voor mij. Ik heb ongeveer 3 jaar geleden een beetje informatica gevolgd en een basis website kunnen maken met behulp van les. Maar daar is eigenlijk niks van overgebleven in mijn geheugen.
@@ -20,3 +20,8 @@ Domeinnaam gemaakt: Elize-WA-Paddenburg --> eerste idee was: ElizeP-Digital-Gard
 <br> 
 <br>
 Ik kan mijn pagina aanpassen in VSCodium en via Github opslaan. (Ik moet dit nog verder uitzoeken, maar dit is op dit moment mijn aanname).
+<br>
+<br>
+**_10 November - Huiswerk_**
+<br>
+CSS diner geoefend t/m lvl 14 en in Codepen een beginopzet gemaakt (Headers, paragraphs, images, blockquote) volgens de voorbereiding van CSS. Alles van de kick-off ook afgemaakt.
