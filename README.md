@@ -14,8 +14,6 @@ Wat gaan we doen?
 <br>
 Ik heb praktische CSS gevolgd en dit is hoe mijn website er nu uitziet.
 
-=======
-
 **_11 November - Huiswerk_**
 <br>
 Practica interactie MMD en interacties/animaties schetsen gevolgd. Ik vond het erg leuk om te leren over de theorie van MMD. Heb ik zelf nog niet eerder gehad omdat ik van de HU kom. Het schetsen vond ik ook heel leuk. Ik heb nu een nieuwe invalshoek geleerd hoe ik naar schetsen kan kijken, namelijk: schetsen = denken. Door dit nieuwe inzicht ga ik het vaker gebruiken. Daarnaast teken ik graag, dus het gaat me best makkelijk af. Ik vind het leuk om te zien dat de schetsen er al professioneel uitzien.
@@ -30,7 +28,6 @@ Oefeningen met schetsen
 <img width="334.3" height="229.3" alt="Vierkanten tekenen oefening" src="https://github.com/user-attachments/assets/ca003513-3b4e-4dd0-81e4-a1efbc18d887" />
 <br>
 
-=======
 Opdracht om bestaande apps te schetsen met de nieuwe techniek en materialen. Ik heb gekozen de mail app en wordle website (newyorktimes) te schetsen omdat ik die regelmatig gebruik.
 
 <br>
@@ -44,7 +41,6 @@ Deze schets hoort bij de interactie die ik ontworpen heb van het interactie prac
 <br>
 <br>
 
-=======
 **Interactie uitdaging Practica**
 
 <br>
