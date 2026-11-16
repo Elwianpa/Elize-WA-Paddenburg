@@ -14,6 +14,8 @@ Wat gaan we doen?
 <br>
 Ik heb praktische CSS gevolgd en dit is hoe mijn website er nu uitziet.
 
+=======
+
 **_11 November - Huiswerk_**
 <br>
 Practica interactie MMD en interacties/animaties schetsen gevolgd. Ik vond het erg leuk om te leren over de theorie van MMD. Heb ik zelf nog niet eerder gehad omdat ik van de HU kom. Het schetsen vond ik ook heel leuk. Ik heb nu een nieuwe invalshoek geleerd hoe ik naar schetsen kan kijken, namelijk: schetsen = denken. Door dit nieuwe inzicht ga ik het vaker gebruiken. Daarnaast teken ik graag, dus het gaat me best makkelijk af. Ik vind het leuk om te zien dat de schetsen er al professioneel uitzien.
@@ -27,7 +29,10 @@ Oefeningen met schetsen
 <img width="261.5" height="283.9" alt="Oefening teken life size telefoon zonder te spieken" src="https://github.com/user-attachments/assets/5adde48d-b524-4b63-aedf-874d36cf608f" />
 <img width="334.3" height="229.3" alt="Vierkanten tekenen oefening" src="https://github.com/user-attachments/assets/ca003513-3b4e-4dd0-81e4-a1efbc18d887" />
 <br>
+
+=======
 Opdracht om bestaande apps te schetsen met de nieuwe techniek en materialen. Ik heb gekozen de mail app en wordle website (newyorktimes) te schetsen omdat ik die regelmatig gebruik.
+
 <br>
 <img width="185.8" height="267.5" alt="Schets email app" src="https://github.com/user-attachments/assets/3e8112d2-5857-42cc-995e-b73d26b444af" />
 <img width="228" height="312.2" alt="Wordle website schets" src="https://github.com/user-attachments/assets/80c16067-352e-41bf-944a-8a242a3eccde" />
@@ -38,7 +43,10 @@ Deze schets hoort bij de interactie die ik ontworpen heb van het interactie prac
 <img width="320.3" height="228.6" alt="Restaurant schets animatie" src="https://github.com/user-attachments/assets/443008df-5130-4e89-921b-6de0d13dafd1" />
 <br>
 <br>
+
+=======
 **Interactie uitdaging Practica**
+
 <br>
 Ik heb gekozen om de interacties zo te maken dat je een overzicht hebt van alles wat je besteld hebt, anders heb je allemaal vakjes van ingredienten en zie je niet in een overzicht wat jij allemaal aangevinkt hebt.
 <br>
