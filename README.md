@@ -1,18 +1,80 @@
-**_16 November_**
+**_16 November - Huiswerk_**
 <br>
-**_Standup 1 (sprint 1 W1)_**
+<br>
+<strong>Standup 1 (sprint 1 W1)</strong>
+<br>
 <br>
 Wat heb je gedaan? Code geleerd: HTML CSS → Interactie schetsen, CSS practica
 Waar loop je tegenaan? Code ligt mij beter dan verwacht, het kost gewoon tijd om alles op te zoeken.
-Wat gaan we doen?
+Wat gaan we doen? Een one pager coderen in de komende 2 weken (sprint 1)
+<br>
+<br>
+<u>Opdracht 1</u>
+<br>
+<br>
+We hebben allemaal in groepjes artikelen gelezen met de 'schematisch lezen' techniek. Mijn groepje en ik hebben 'Shawn-Wang Digital Garden Terms of Service gelezen.
+INSERT FOTO VAN NOTITIES EN BOEKJE
+Ik vond de methode interessant. Het omtoveren van de kopjes naar vragen, onderstrepen van moeilijke woorden en het notities maken aan de zijkant hebben mij flink geholpen om scherp te houden. Ook heb ik een samenvatting gemaakt van wat ik gelezen had. Ik vond het vooral interessant om te horen dat digital gardens een sub-cultuur zijn. Ik vind het een heel leuk concept en misschien wil ik het ook wel blijven gebruiken. Zelfexpressie vind ik heel belangrijk.
+<br>
+<br>
+<u>Opdracht 2 - Verkenning van onderwerp</u>
+<br>
+<u>A: Rangschikken</u>
+<br>
+<br>
+We hebben in groepjes meerdere websites bekeken van anderen in de invalshoek van bepaalde begrippen INSERT HIER WELKE. Ik vond het heel leuk om andere mensen hun websites te bekijken omdat ze allemaal zo niche zijn. Het is alsof je een kijkje neemt in het brein van iemand anders en dat vond ik wel heel leuk om te zien. Je moet verder lezen om te begrijpen wat de andere persoon met hun website bedoelt, het houdt mijn hoofd wat scherper en is veel behapbaarder dan instagram.
+INSERT FOTO'S VAN WEBSITES EN WAT NOTATIES --> Foto van websites met mening: waarom??
+<br> <br>
+<u>B: Eigen verkenning</u>
+<br>
+<br>
+Mijn onderwerp wordt een dier: De klipdas. Ik vind dat dier geweldig omdat die schattig is, klein en in contrast dus enorm schreeuwt. Ook hebben ze vampiertandjes en zijn ze familie van olifanten ondanks dat ze zo klein en fluffy zijn.
+<br>
+Ik kies vooral voor de klipdas omdat het past bij de naam van de website: Elize-WA-Paddenburg.nl. De 'WA' zijn niet alleen mijn initialen maar ook het geluid wat ze maken. Daarom vind ik het heel toepasselijk. Ik vind woordgrapjes sowieso heel leuk.
+<br> <br>
+Ik heb een website gezien die heel netjes en praktisch was en ook een beetje saai: https://whimsical.club/4/ en eentje die heel expressief was maar niet praktisch: https://virtualvampirehaven.neocities.org/Links. Dan heb ik toch de voorkeur voor meer expressief, maar dan wil ik het zelf meer toegankelijk maken dan het voorbeeld. Het kan allebei. Ik hou erg van expressief, creatief en originaliteit.
+<br> <br>
+Content: Ik wil allerlei informatie delen over de klipdas. Ik heb zelf het dier ontdekt door memes/video's op het internet van dat die aan het schreeuwen is. Ik wil ook allemaal gekke dingen doen. Misschien dat je het dier kan aankleden in een dress up game en video's dat die schreeuwt. De achtergrond wil ik dat het allemaal tekst is met 'WAWA' erop, ook om te verwijzen naar de connectie van het geluid van het dier en de naam van de website. Informatief, grappig, leuk en speels.
+<br>
+Ik wil video's van anderen gebruiken en ik ga dat doen door te vermelden wie het gemaakt heeft en ernaar refereren. Voor de zekerheid zal ik even opzoeken wat ik wel en niet mag gebruiken.
+<br> <br>
+Ik wil de website heel interacties maken. Zoals die dress up game. Of dat er meerdere klipdassen op de website staan en dat je erop kan klikken en dan komt er een soundeffect van hun geschreeuw etc.
+<br>
 <br>
 
 **_13 November - Huiswerk_**
 <br>
-<img width: 100%; src="![alt text](<Screenshot 2026-11-14 160522.png>)" alt="Description">
-<img width: 100%; src="![alt text](<Screenshot 2026-11-14 160946.png>)" alt="Description">
-<br>
 Ik heb praktische CSS gevolgd en dit is hoe mijn website er nu uitziet.
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Digital garden oefening CSS.png" alt="Oefening CSS" width="200">
+<img src="../Elize-WA-Paddenburg/readme-images/Digital garden oefening CSS Code.png" alt="Oefening CSS code" width="300">
+<br>
+Het was leuk om CSS te leren. Het was net een puzzel. Ik zoek veel op, op https://www.w3schools.com/css/. Daar kan ik welke functie vinden en de uitleg.
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/oefening 1 CSS Dive.png" alt="Oefening CSS 1" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/oefening 1 CSS Dive code.png" alt="Oefening CSS 1 code" width="150">
+<br>
+Oefening 1 CSS: Het was eerst even zoeken maar uiteindelijk heb ik wel gevonden welke dingen ik moest gebruiken. Met de tips van welke functies kon ik de functies steeds opzoeken en op die manier raden waar het voor gebruikt moet worden.
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/oefening 2 CSS Dive.png" alt="Oefening CSS 2" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/oefening 2 CSS Dive code.png" alt="Oefening CSS 2 code" width="200">
+<br>
+Oefening 2 CSS: Zelfde methode gebruikt als bij oefening 2. Het werd steeds makkelijker en ik vond het ook leuk om te doen.
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Oefening 3 CSS fonts.png" alt="Oefening CSS 3" width="400">
+<img src="../Elize-WA-Paddenburg/readme-images/Oefening 3 CSS fonts code.png" alt="Oefening CSS 3 code" width="150">
+<br>
+Oefening 3 CSS: Deze was de lastigste oefening. Ik had 1 afbeelding gedaan van elke moeilijkheidsgraad. De laastste was inderdaad het moeilijkst, ik was er ook best lang mee bezig. Uiteindelijk is het me gelukt met de hints! Ik zou echt niet weten hoe ik het zou moeten doen zonder de hints van de functies. Waarschijnlijk zou ik het later wel kunnen herkennen wat voor soort functie er waarschijnlijk gebruikt is.
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Oefening 4 CSS Transitions.png" alt="Oefening CSS 4 1" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Oefening 4 CSS Transitions 2.png" alt="Oefening CSS 4 2" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Oefening 4 CSS Transitions code.png" alt="Oefening CSS 4 code" width="200">
+<br>
+Dit was eigenlijk heel simpel om te doen. Ik zou dit ook makkelijk kunnen opzoeken op w3schools welke transities er zijn en kunnen toepassen op mijn digital garden.
+
+_Conclusie_
+CSS geleerd op verschillende manieren, ik vond het erg leuk om te doen en het viel me wel mee. Ik heb er vertrouwen in dat ik hiermee aan de slag kan.
+<br>
 
 **_11 November - Huiswerk_**
 <br>
