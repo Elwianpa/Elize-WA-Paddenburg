@@ -23,7 +23,12 @@ Ik vond de methode interessant. Het omtoveren van de kopjes naar vragen, onderst
 <br>
 <br>
 We hebben in groepjes meerdere websites bekeken van anderen in de invalshoek van bepaalde begrippen INSERT HIER WELKE. Ik vond het heel leuk om andere mensen hun websites te bekijken omdat ze allemaal zo niche zijn. Het is alsof je een kijkje neemt in het brein van iemand anders en dat vond ik wel heel leuk om te zien. Je moet verder lezen om te begrijpen wat de andere persoon met hun website bedoelt, het houdt mijn hoofd wat scherper en is veel behapbaarder dan instagram.
-INSERT FOTO'S VAN WEBSITES EN WAT NOTATIES --> Foto van websites met mening: waarom??
+<br>
+Wij hebben de voorkeur gegeven aan een website die praktisch en expressief is omdat het beide kanten heeft. Minst webby hebbenw e gekozen voor: https://virtualvampirehaven.neocities.org/Links omdat die niet praktisch was. Als je er niet goed doorheen kan klikken dan heb je er niet veel aan. Het is een basisbehoefte van een website. Maar de expressieve kant was wel heel leuk en inspiratievol!
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Werkvel 1 &apos;webby websites&apos;.jpg" alt="Werkvel 1 webby websites" width="250">
+<img src="../Elize-WA-Paddenburg/readme-images/Werkvel 2 &apos;webby websites&apos;.jpg" alt="Werkvel 2 webby websites" width="250">
+
 <br> <br>
 <u>B: Eigen verkenning</u>
 <br>
