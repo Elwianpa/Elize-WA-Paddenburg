@@ -46,6 +46,24 @@ Ik wil video's van anderen gebruiken en ik ga dat doen door te vermelden wie het
 Ik wil de website heel interacties maken. Zoals die dress up game. Of dat er meerdere klipdassen op de website staan en dat je erop kan klikken en dan komt er een soundeffect van hun geschreeuw etc.
 <br>
 <br>
+<b><i>Check-out</i></b>
+<br>
+<i>Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.</i>
+<br>
+Een digital garden is een eigen website waar je kan experimenteren met CSS en onderwerpen die jij interessant vind.
+<br>
+<i>Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.</i>
+<br>
+Als het voldoet aan de volgede begrippen: fluïde/adaptief, interactief/dynamisch, toegankelijkheid, volwassen, expressief en leuk/verassend
+<br>
+<i>Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)</i>
+<br>
+Mijn website wil ik laten gaan over de klipdas: zie hierboven: 'Content: Ik wil allerlei informatie delen over de klipdas. Ik heb zelf het dier ontdekt door memes/video's op het internet van dat die aan het schreeuwen is. Ik wil ook allemaal gekke dingen doen. Misschien dat je het dier kan aankleden in een dress up game en video's dat die schreeuwt. De achtergrond wil ik dat het allemaal tekst is met 'WAWA' erop, ook om te verwijzen naar de connectie van het geluid van het dier en de naam van de website. Informatief, grappig, leuk en speels.
+<br>
+Ik wil video's van anderen gebruiken en ik ga dat doen door te vermelden wie het gemaakt heeft en ernaar refereren. Voor de zekerheid zal ik even opzoeken wat ik wel en niet mag gebruiken.
+<br> <br>
+Ik wil de website heel interacties maken. Zoals die dress up game. Of dat er meerdere klipdassen op de website staan en dat je erop kan klikken en dan komt er een soundeffect van hun geschreeuw etc.'
+<br><br>
 
 **_13 November - Huiswerk_**
 <br>
