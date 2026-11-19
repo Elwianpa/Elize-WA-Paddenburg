@@ -1,3 +1,17 @@
+**_19 November - Huiswerk_**
+<br>
+<br>
+<strong>Presentatie gemaakt</strong>
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/afbeeldingen presentatie screen.png" alt="Artikel aantekeningen 1" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/links presentatie screen.png" alt="Artikel aantekeningen 1" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/introtekst presentatie screen.png" alt="Artikel aantekeningen 1" width="300">
+<br>
+
+Belangrijkst: Ik heb nu een beter overzicht van mijn idee van de website. Het maken van moodboards/presentaties helpt altijd wel met meer ideeen krijgen of te verduidelijken. Hier kan ik mee aan de slag door schetsen te maken van de indeling van de websites en welke illustraties ik allemaal wil uitwerken.
+
+<br>
+
 **_16 November - Huiswerk_**
 <br>
 <br>
