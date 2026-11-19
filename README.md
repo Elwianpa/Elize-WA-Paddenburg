@@ -13,8 +13,11 @@ Wat gaan we doen? Een one pager coderen in de komende 2 weken (sprint 1)
 <br>
 <br>
 We hebben allemaal in groepjes artikelen gelezen met de 'schematisch lezen' techniek. Mijn groepje en ik hebben 'Shawn-Wang Digital Garden Terms of Service gelezen.
-INSERT FOTO VAN NOTITIES EN BOEKJE
 Ik vond de methode interessant. Het omtoveren van de kopjes naar vragen, onderstrepen van moeilijke woorden en het notities maken aan de zijkant hebben mij flink geholpen om scherp te houden. Ook heb ik een samenvatting gemaakt van wat ik gelezen had. Ik vond het vooral interessant om te horen dat digital gardens een sub-cultuur zijn. Ik vind het een heel leuk concept en misschien wil ik het ook wel blijven gebruiken. Zelfexpressie vind ik heel belangrijk.
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Artikel aantekeningen 1.jpg" alt="Artikel aantekeningen 1" width="250">
+<img src="../Elize-WA-Paddenburg/readme-images/Artikel aantekeningen 2.jpg" alt="Artikel aantekeningen 1" width="250">
+
 <br>
 <br>
 <u>Opdracht 2 - Verkenning van onderwerp</u>
@@ -22,7 +25,7 @@ Ik vond de methode interessant. Het omtoveren van de kopjes naar vragen, onderst
 <u>A: Rangschikken</u>
 <br>
 <br>
-We hebben in groepjes meerdere websites bekeken van anderen in de invalshoek van bepaalde begrippen INSERT HIER WELKE. Ik vond het heel leuk om andere mensen hun websites te bekijken omdat ze allemaal zo niche zijn. Het is alsof je een kijkje neemt in het brein van iemand anders en dat vond ik wel heel leuk om te zien. Je moet verder lezen om te begrijpen wat de andere persoon met hun website bedoelt, het houdt mijn hoofd wat scherper en is veel behapbaarder dan instagram.
+We hebben in groepjes meerdere websites bekeken van anderen in de invalshoek van bepaalde begrippen. Ik vond het heel leuk om andere mensen hun websites te bekijken omdat ze allemaal zo niche zijn. Het is alsof je een kijkje neemt in het brein van iemand anders en dat vond ik wel heel leuk om te zien. Je moet verder lezen om te begrijpen wat de andere persoon met hun website bedoelt, het houdt mijn hoofd wat scherper en is veel behapbaarder dan instagram.
 <br>
 Wij hebben de voorkeur gegeven aan een website die praktisch en expressief is omdat het beide kanten heeft. Minst webby hebbenw e gekozen voor: https://virtualvampirehaven.neocities.org/Links omdat die niet praktisch was. Als je er niet goed doorheen kan klikken dan heb je er niet veel aan. Het is een basisbehoefte van een website. Maar de expressieve kant was wel heel leuk en inspiratievol!
 <br>
