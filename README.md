@@ -47,6 +47,13 @@ PLAATS IMAGE SCHETSEN
 
    <br> <br>
 
+Crazy8 VRAGEN BEANTWOORDEN
+Wat zijn de beste ideeën en waarom? ... en waarom de andere minder?
+Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar?
+Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
+Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je?
+Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?
+
 <strong>Checkout: Welke feedback heb je gehad?</strong>
 
 INSERT FEEDBACK
