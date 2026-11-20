@@ -1,3 +1,9 @@
+**_20 November - Huiswerk_**
+<br><br>
+Ik wil mijn Digital Garden laten gaan over Hyraxes en wil dat laten zien door feiten, illustraties en memes aan content te tonen.
+Ik begin met een stukje eigen content over wat het punt is van mijn digital garden. Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nog meer memes, illustraties en interactieve elementen te maken.
+<br> <br>
+
 **_19 November - Huiswerk_**
 <br>
 <br>
