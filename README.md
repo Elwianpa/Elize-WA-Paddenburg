@@ -12,16 +12,18 @@ Ik begin met een stukje eigen content over wat het punt is van mijn digital gard
 <strong>Standup 1 (sprint 1 W1)</strong>
 <br>
 <br>
-Wat heb je gedaan? Maandag kick-off van sprint 1, presentatie gemaakt. Woensdag kon ik er niet bij zijn vanwege persoonlijke omstandigheden.
-Waar loop je tegenaan? Nu niet meteen vragen omdat ik nog wat bij moet werken, daarna zal ik kijken of ik vragen heb. Sowieso noteer ik ze altijd in Trello in een apart vragenlijstje.
-Wat gaan we doen? Werk bijwerken om weer helemaal bij te zijn. Crazy8, schetsen maken.
-<br>
-<br>
+
+- Wat heb je gedaan? Maandag kick-off van sprint 1, presentatie gemaakt. Woensdag kon ik er niet bij zijn vanwege persoonlijke omstandigheden.
+- Waar loop je tegenaan? Nu niet meteen vragen omdat ik nog wat bij moet werken, daarna zal ik kijken of ik vragen heb. Sowieso noteer ik ze altijd in Trello in een apart vragenlijstje.
+- Wat gaan we doen? Werk bijwerken om weer helemaal bij te zijn. Crazy8, schetsen maken.
+  <br>
+  <br>
 
 <strong>Bespreken huiswerk, schetsen</strong>
+<br> <br>
 
-PLAATS IMAGE SCHETSEN
-
+<img src="../Elize-WA-Paddenburg/readme-images/Snelle schets DG.jpg" alt="schets" width="300">
+<br>
 1. Zijn je schetsen Webby genoeg? Beoordeel o.b.v. het invulvel.
    Fluide/adaptief: Dat is duidelijker wanneer ik het geprogrammeerd heb. Voor nu zou ik denken dat het allebei kan (klein/groot scherm).
    <br>
@@ -39,24 +41,50 @@ PLAATS IMAGE SCHETSEN
      <br>
 
 2. Je hebt je opzet in html gemaakt. Bespreek met elkaar hoe schermontwerp kunt opbouwen/realiseren in html en css.
-   Illustraties plaatsen met x,y-as, opzoeken hoe ik dat kan doen. Veel vlakken in mijn schetsen dus waarschijnlijk moet ik blokken gaan maken met de functie border radius.
+   <br> Illustraties plaatsen met x,y-as, opzoeken hoe ik dat kan doen. Veel vlakken in mijn schetsen dus waarschijnlijk moet ik blokken gaan maken met de functie border radius.
 3. Schrijf vragen of moeilijke onderdelen op en vraag advies aan een docent/student assistent.
-   Ik heb nog niet vragen omdat ik eerst nog bij moet werken, maar ik zal er zeker opletten.
+   <br> Ik heb nog niet vragen omdat ik eerst nog bij moet werken, maar ik zal er zeker opletten.
 4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.
-   Als ik een definitieve schets gemaakt heb dan zal ik het meer gedetailleerd en uitgebreid doen.
+   <br> Als ik een definitieve schets gemaakt heb dan zal ik het meer gedetailleerd en uitgebreid doen.
 
    <br> <br>
 
-Crazy8 VRAGEN BEANTWOORDEN
-Wat zijn de beste ideeën en waarom? ... en waarom de andere minder?
-Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar?
-Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
-Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je?
-Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?
+<strong>Crazy8 en definitieve schets</strong>
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Crazy8.jpg" alt="Crazy 8 schets" width="400">
 
-<strong>Checkout: Welke feedback heb je gehad?</strong>
+<img src="../Elize-WA-Paddenburg/readme-images/Definitieve schets V1.1 (moet nog meer details bij).jpg" alt="schets bijna definitief" width="300">
 
-INSERT FEEDBACK
+<u> Feedback Diederik: </u>
+<br>
+Metafoor klopt niet: huisdier. Dat je vangt, date, omkleden, wat is het verhaal? Leuk dat je de gebruiker activeert om iets te doen. Nu is het een huisdier. Fake it till you make it. Dit zijn wel heel veel ideeën en het is misschien niet realistisch om allemaal te doen in 6 weken. Een logisch begin → Wat is een klipdas eerst? Vangen, datingapp → leer je hem kennen. De volgorde. About is flauw/saai → metaforen kan je meer mee. Dit is de navigatie. Misschien heb je de titel ook niet nodig. Wel leuke ideeen!
+<br> <br>
+
+<u> Feedback Sanne: </u>
+
+- Je pakt CSS snel op!
+- Leuk al die schetsen, lekker druk. Het zijn nu allemaal aparte schetsen maar het zou best leuk zijn als je website heel druk was met al die vakjes. Het doet me denken aan Verkade boeken.
+- Schetsen voor telefoon/klein scherm maken, dan html schrijven, dan css.
+- main, nav, ul, il, a etc.
+
+<br> <br>
+
+<strong>Practica Grid + Media querie</strong>
+<br>
+Aantekeningen:
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Aantekeningen GRID en Media 1.jpg" alt="aantekeningen grids 1" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Aantekeningen GRID en Media 2.jpg" alt="aantekeningen grids 2" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Aantekeningen GRID en Media 3.jpg" alt="aantekeningen grids 3" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Aantekeningen GRID en Media 4.jpg" alt="aantekeningen grids 4" width="300">
+<br><br>
+
+Oefeningen 1-4:
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Grids en Media queries oef 1.png" alt="aantekeningen grids 1" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Grids en Media queries oef 2.png" alt="aantekeningen grids 2" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Grids en Media queries oef 3.png" alt="aantekeningen grids 3" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Grids en Media queries oef 4.png" alt="aantekeningen grids 4" width="300">
 
 <br> <br>
 
