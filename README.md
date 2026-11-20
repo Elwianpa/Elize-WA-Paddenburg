@@ -47,6 +47,12 @@ PLAATS IMAGE SCHETSEN
 
    <br> <br>
 
+<strong>Checkout: Welke feedback heb je gehad?</strong>
+
+INSERT FEEDBACK
+
+<br> <br>
+
 **_19 November - Huiswerk_**
 <br>
 <br>
