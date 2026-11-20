@@ -9,6 +9,15 @@ Ik begin met een stukje eigen content over wat het punt is van mijn digital gard
 
 <br> <br>
 
+<strong>Standup 1 (sprint 1 W1)</strong>
+<br>
+<br>
+Wat heb je gedaan? Maandag kick-off van sprint 1, presentatie gemaakt. Woensdag kon ik er niet bij zijn vanwege persoonlijke omstandigheden.
+Waar loop je tegenaan? Nu niet meteen vragen omdat ik nog wat bij moet werken, daarna zal ik kijken of ik vragen heb. Sowieso noteer ik ze altijd in Trello in een apart vragenlijstje.
+Wat gaan we doen? Werk bijwerken om weer helemaal bij te zijn. Crazy8, schetsen maken.
+<br>
+<br>
+
 **_19 November - Huiswerk_**
 <br>
 <br>
