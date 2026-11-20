@@ -4,6 +4,11 @@ Ik wil mijn Digital Garden laten gaan over Hyraxes en wil dat laten zien door fe
 Ik begin met een stukje eigen content over wat het punt is van mijn digital garden. Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nog meer memes, illustraties en interactieve elementen te maken.
 <br> <br>
 
+- Mijn onderwerp voor de Digital Garden is: Hyrax
+- Mijn sfeer- of kernwoord(en) is/zijn: Informatief, grappig, leuk en speels.
+
+<br> <br>
+
 **_19 November - Huiswerk_**
 <br>
 <br>
