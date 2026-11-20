@@ -18,25 +18,25 @@ Wat gaan we doen? Werk bijwerken om weer helemaal bij te zijn. Crazy8, schetsen 
 <br>
 <br>
 
-<strong>Bespreken huiswerk, schetsen<strong>
+<strong>Bespreken huiswerk, schetsen</strong>
 
-PLAARS IMAGE SCHETSEN
+PLAATS IMAGE SCHETSEN
 
 1. Zijn je schetsen Webby genoeg? Beoordeel o.b.v. het invulvel.
    Fluide/adaptief: Dat is duidelijker wanneer ik het geprogrammeerd heb. Voor nu zou ik denken dat het allebei kan (klein/groot scherm).
    <br>
-   Interactief/dynamisch: Ik heb nog geen interacties geschetst, maar ik heb wel als idee om een 'dress up game' erin te zetten als het kan en de klipdassen interactief te maken
-   <br>
-   Toegankelijk: Dit is heel belangrijk om erbij te houden terwijl ik het aan het vormgeven ben. Rekening houden met kleur/contrast/grote buttons.
-   <br>
-   Volwassen: Tijd-realistisch? Ik ga niet iets te ingewikkelds ontwerpen. Bijvoorbeeld de dress up game is waarschijnlijk moeilijker om te maken omdat het een spel is. Dus dat laat ik voor het laatst.
-   <br>
-   Expressief: Ik ga het practicum CSS animaties volgen dus op die manier kan ik kijken welke animaties erin zouden passen op een later stadium.
-   <br>
-   Leuk/verassend: Het lijkt me leuk om te maken! Misschien zou ik het op mijn portfolio zetten, maar ik zie het meer als een experiment dan een afgemaakt iets. Digital Gardens horen altijd te veranderen.
-   <br>
-   Feedback: nadenken over kleuren voor dark en light mode, is het realistisch in de tijd? Maak versies voor grote en kleine schermen, pc en mobile.
-   <br>
+   - Interactief/dynamisch: Ik heb nog geen interacties geschetst, maar ik heb wel als idee om een 'dress up game' erin te zetten als het kan en de klipdassen interactief te maken
+     <br>
+   - Toegankelijk: Dit is heel belangrijk om erbij te houden terwijl ik het aan het vormgeven ben. Rekening houden met kleur/contrast/grote buttons.
+     <br>
+   - Volwassen: Tijd-realistisch? Ik ga niet iets te ingewikkelds ontwerpen. Bijvoorbeeld de dress up game is waarschijnlijk moeilijker om te maken omdat het een spel is. Dus dat laat ik voor het laatst.
+     <br>
+   - Expressief: Ik ga het practicum CSS animaties volgen dus op die manier kan ik kijken welke animaties erin zouden passen op een later stadium.
+     <br>
+   - Leuk/verassend: Het lijkt me leuk om te maken! Misschien zou ik het op mijn portfolio zetten, maar ik zie het meer als een experiment dan een afgemaakt iets. Digital Gardens horen altijd te veranderen.
+     <br>
+   - Feedback: nadenken over kleuren voor dark en light mode, is het realistisch in de tijd? Maak versies voor grote en kleine schermen, pc en mobile.
+     <br>
 
 2. Je hebt je opzet in html gemaakt. Bespreek met elkaar hoe schermontwerp kunt opbouwen/realiseren in html en css.
    Illustraties plaatsen met x,y-as, opzoeken hoe ik dat kan doen. Veel vlakken in mijn schetsen dus waarschijnlijk moet ik blokken gaan maken met de functie border radius.
@@ -44,6 +44,8 @@ PLAARS IMAGE SCHETSEN
    Ik heb nog niet vragen omdat ik eerst nog bij moet werken, maar ik zal er zeker opletten.
 4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.
    Als ik een definitieve schets gemaakt heb dan zal ik het meer gedetailleerd en uitgebreid doen.
+
+   <br> <br>
 
 **_19 November - Huiswerk_**
 <br>
