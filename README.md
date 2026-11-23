@@ -76,6 +76,8 @@ Met wat voor slechte gevolgen er allemaal komen van het internet/web, is mijn me
 
 De HTML en CSS voor je one-column layout verder afmaken en/of verfijnen. (met behulp van Sanne schets)
 
+<br><br>
+
 **_22 November - Huiswerk_**
 <br><br>
 
