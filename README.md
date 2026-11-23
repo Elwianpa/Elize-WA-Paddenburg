@@ -1,7 +1,22 @@
+**_24 November - Huiswerk_**
+<br><br>
+
+<u>Code for responsiveness</u>
+<br><br>
+<u>Practicum Everything Images</u>
+<br><br>
+
+Lezen:
+<br>
+
+- https://www.nngroup.com/articles/principles-visual-design/
+- https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/
+  <br><br>
+
 **_23 November - Huiswerk_**
 <br><br>
 
-<u>Bi-weekly geek 1<u>
+<u>Bi-weekly geek 1</u>
 <br>
 Vanwege de OV staking ben ik niet fysiek aanwezig op school. Wel heb ik op tijd de artikelen gelezen:
 https://www.theguardian.com/commentisfree/2025/oct/22/the-guardian-view-on-the-cloud-crash-an-outage-that-showed-who-really-runs-the-internet
@@ -22,9 +37,44 @@ Van hoe ik het gelezen heb, heb ik begrepen dat het onafhankelijke organisaties 
 Met wat voor slechte gevolgen er allemaal komen van het internet/web, is mijn mening wel dat iemand wat moet doen. Overheden hebben de meeste macht, dus dan zou ik wel vinden dat als iemand het moet doen, zij het zouden zijn.
 <br> <br>
 
-De HTML en CSS voor je one-column layout verder afmaken en/of verfijnen.
+<u>Opdracht 16, van column layout naar een responsive design</u>
+<br>
 
-Maandag planning
+- Wanneer is er een verandering van vormgeving/layout nodig? Waarom? Wat is er 'lelijk' of kan beter?
+- Bespreek deze punten met elkaar en maak notities.
+  <br>
+  Ik loop nu nog een beetje achter dus ik kan niet exact mijn scherm verkleinen en vergroten. Wel heb ik het grid practicum gevolgd en weet ik wat ik zou doen. Daarnaast, wordt mijn website een klikbaar plaatje, daarom wordt het wel lastig, dan zou ik mijn illustratie responsive moeten maken. Dan moet ik 4 illustraties hebben (light groot, light klein, dark groot, dark klein). De volgende les zal ik dit nog even bespreken met de docent.
+  <br> <br>
+  <u>Opdracht 17, responsive voorbeelden zoeken</u>
+  <br>
+- https://twandeniet.com/ Deze portfoliowebsite vind ik echt enorm gaaf. Het ziet eruit als een spel en je kan op dingen klikken, scrollen om het werk te zien van de ontwerpen. Het idee van scrollen en door het raam heen gaan is ook heel cool. Het is erg "outside of the box".
+  <br>
+  <img src="../Elize-WA-Paddenburg/readme-images/Twan 1.png" alt="groot scherm" width="150">
+  <img src="../Elize-WA-Paddenburg/readme-images/Twan 2.png" alt="klein scherm" width="150">
+  <img src="../Elize-WA-Paddenburg/readme-images/Twan 3.png" alt="poppetje met meer info" width="150">
+  <br>
+  Ik had deze website gekozen omdat een illustratie zag en ik zelf ook met een illustratie ga werken. Hij heeft de illustratie ontworpen voor een klein scherm en in groot scherm is er meer ruimte omheen maar wel bijpassend. Daar kan ik ook naar kijken, dan hoef ik maar 2 illustraties te maken in plaats van 4. Hier lijkt het dat de kamer doortrekt dus misschien moet ik de achtergrond in CSS maken en dat de illustraties een transparante achtergrond hebben. Maar ik ga natuurlijk wel kijken in mijn tekenprogramma hoe de achtergrond eruit moet komen te zien.
+  <br><br>
+  <u>Check-out maandag</u>
+  - Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+    Er zijn veel manieren waarop een website lelijk kan zijn. Bijvoorbeeld als er nog geen enkele CSS of stijleditor gebruikt is. Of als de website niet voor klein/groot scherm gemaakt is. Dan is het juist op je telefoon lelijk of op je laptop lelijk omdat het daar dan niet voor gemaakt is.
+- Vertel welke volgende stap je neemt om je website responsive te maken.
+  <br> Ik ga mijn illustratie maken voor klein scherm zoals het voorbeeld: https://twandeniet.com/
+- Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+  <br> Nog niet uit mijn hoofd maar wel als ik spiek:
+  - Fluide/adaptief: Illustratie voor klein scherm maken en de achtergrond verbreden voor groot scherm.
+    <br>
+  - Interactief/dynamisch: Ik wil alle voorwerpen in de illustratie klikbaar maken: of ze gaan naar een spel of er komt een leuk geluidseffectje van de klipdas.
+    <br>
+  - Toegankelijk: Dit is heel belangrijk om erbij te houden terwijl ik het aan het vormgeven ben. Rekening houden met kleur/contrast/grote buttons.
+    <br>
+  - Volwassen: Tijd-realistisch? Ik ga niet iets te ingewikkelds ontwerpen. Bijvoorbeeld de dress up game is waarschijnlijk moeilijker om te maken omdat het een spel is. Dus dat laat ik voor het laatst.
+    <br>
+  - Expressief: Ik ga het practicum CSS animaties volgen dus op die manier kan ik kijken welke animaties erin zouden passen op een later stadium.
+    <br>
+  - Leuk/verassend: De illustratie en geluidseffecten zal het leuk/verassend maken.
+
+De HTML en CSS voor je one-column layout verder afmaken en/of verfijnen. (met behulp van Sanne schets)
 
 **_22 November - Huiswerk_**
 <br><br>
