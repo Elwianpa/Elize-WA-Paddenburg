@@ -49,6 +49,11 @@ Ik begin met een stukje eigen content over wat het punt is van mijn digital gard
 
    <br> <br>
 
+   <strong>Visual Research</strong>
+   <br><br>
+   <img src="../Elize-WA-Paddenburg/readme-images/Visual Research klas 201 - Elize.png" alt="Visual Research" width="100">
+   <br><br>
+
 <strong>Crazy8 en definitieve schets</strong>
 <br>
 <img src="../Elize-WA-Paddenburg/readme-images/Crazy8.jpg" alt="Crazy 8 schets" width="400">
