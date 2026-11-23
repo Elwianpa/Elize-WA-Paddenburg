@@ -6,7 +6,7 @@
 <u>Practicum Everything Images</u>
 <br><br>
 
-Lezen:
+Gelezen:
 <br>
 
 - https://www.nngroup.com/articles/principles-visual-design/
@@ -85,10 +85,14 @@ Practicum mooie kleur en gradients
 
 Mobile-first schetsen en mini-style guide --> met deepdive schetsen manier
 
-Check out (WO W2)
-Leg uit waar het Visual Research in 3 stappen naartoe werkt
-Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
-Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+<u>Check out (WO W2)</u>
+
+- Leg uit waar het Visual Research in 3 stappen naartoe werkt.
+  - Sfeerwoorden met algemene beelden opzoeken en kijken of het past bij het beeld wat je had. Op die manier heb ik gezien dat mijn woorden goed gekozen waren en kreeg ik een beter idee van de sfeer van mijn website.
+- Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+  - Het gaat over de klipsdas. Ik ga een klikbare illustratie maken. Je kan op voorwerpen klikken en dan krijg je een minigame of geluid te horen.
+- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+  - Het klikbare plaatje idee komt van de crazy8 en die is het algemene idee geworden. Ik had ook nog ideeen om minigames te maken. Zoals een dressup game of een dating sim maar dat komt allemaal later wel. Het zou heel leuk zijn als het allemaal kon.
 
 <br> <br>
 
