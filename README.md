@@ -91,8 +91,12 @@ Volgens feedback van Sanne:
 light en dark mode practicum
 
 Practicum mooie kleur en gradients
-
-Mobile-first schetsen en mini-style guide --> met deepdive schetsen manier
+<br><br>
+<u>Mobile-first schetsen en mini-style guide</u>
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Mobile schetsen.jpg" alt="mobile schetsen" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Definitieve schets V2.jpg" alt="definitieve schets v2" width="300">
+<br><br>
 
 <u>Check out (WO W2)</u>
 
