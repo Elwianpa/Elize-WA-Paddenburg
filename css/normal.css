@@ -54,6 +54,9 @@ footer {
 **************************/
 
 main {
+  max-width: 30em;
+  margin: auto;
+  display: grid;
 }
 
 /**************************
