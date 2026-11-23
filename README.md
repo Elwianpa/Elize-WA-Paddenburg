@@ -1,4 +1,48 @@
-**_20 November - Huiswerk_**
+**_23 November - Huiswerk_**
+<br><br>
+
+<u>Bi-weekly geek 1<u>
+<br>
+Vanwege de OV staking ben ik niet fysiek aanwezig op school. Wel heb ik op tijd de artikelen gelezen:
+https://www.theguardian.com/commentisfree/2025/oct/22/the-guardian-view-on-the-cloud-crash-an-outage-that-showed-who-really-runs-the-internet
+<br>
+https://www.theguardian.com/technology/2026/jan/29/internet-inventor-tim-berners-lee-interview-battle-soul-web
+<br>
+https://www.youtube.com/watch?v=eHp1l73ztB8
+<br>
+
+"Is internettoegang een mensenrecht?"
+<br>
+Als ik het zo lees, was het oorspronkelijk bedoeld om academische informatie sneller/makkelijker door te geven aan andere universiteiten. Vervolgens een neutrale plaats om informatie met elkaar te delen. Tim Bernes-Lee had het web uitgevonden met de intentie voor iedereen om te gebruiken om informatie te delen en dat het gratis zou zijn. Hij is niet tevreden met alle commerciele sites en social media die specifiek gemaakt zijn om verslavend te zijn en mensen mentale problemen te geven. Dus volgens hem zou het wel een mensenrecht zijn, dat iedereen het zou kunnen gebruiken.
+<br> <br>
+"Zijn overheden verantwoordelijk voor de betrouwbaarheid van het internet?"
+<br>
+Van hoe ik het gelezen heb, heb ik begrepen dat het onafhankelijke organisaties zijn die het internet "regelen", maar dat overheden wel regels opstellen voor het gebruik van internet. https://www.rijksoverheid.nl/themas/economie/internet-radio-en-telefonie/veilig-gebruik-internet . Eigenlijk pakt niemand de volledige verantwoordelijkheid, dan zouden overheden meer controle moeten krijgen over de bedrijven die ermee te maken hebben.
+<br>
+Met wat voor slechte gevolgen er allemaal komen van het internet/web, is mijn mening wel dat iemand wat moet doen. Overheden hebben de meeste macht, dus dan zou ik wel vinden dat als iemand het moet doen, zij het zouden zijn.
+<br> <br>
+
+De HTML en CSS voor je one-column layout verder afmaken en/of verfijnen.
+
+Maandag planning
+
+**_22 November - Huiswerk_**
+<br><br>
+
+light en dark mode practicum
+
+Practicum mooie kleur en gradients
+
+Mobile-first schetsen en mini-style guide --> met deepdive schetsen manier
+
+Check out (WO W2)
+Leg uit waar het Visual Research in 3 stappen naartoe werkt
+Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+
+<br> <br>
+
+**_20 November - Huiswerk_** (VR W2)
 <br><br>
 Ik wil mijn Digital Garden laten gaan over Hyraxes en wil dat laten zien door feiten, illustraties en memes aan content te tonen.
 Ik begin met een stukje eigen content over wat het punt is van mijn digital garden. Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nog meer memes, illustraties en interactieve elementen te maken.
