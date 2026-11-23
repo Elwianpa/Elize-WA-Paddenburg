@@ -13,7 +13,7 @@ Gelezen:
 - https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/
   <br><br>
 
-**_23 November - Huiswerk_**
+**_23 November - Huiswerk_** (MA W3)
 <br><br>
 
 <u>Bi-weekly geek 1</u>
@@ -74,11 +74,18 @@ Met wat voor slechte gevolgen er allemaal komen van het internet/web, is mijn me
     <br>
   - Leuk/verassend: De illustratie en geluidseffecten zal het leuk/verassend maken.
 
-De HTML en CSS voor je one-column layout verder afmaken en/of verfijnen. (met behulp van Sanne schets)
-
 <br><br>
 
 **_22 November - Huiswerk_**
+<br><br>
+
+<u>HTML Opzet</u>
+<img src="../Elize-WA-Paddenburg/readme-images/HTML Opzet.png" alt="HTML Opzet" width="200">
+<img src="../Elize-WA-Paddenburg/readme-images/HTML Opzet code.png" alt="HTML Opzet Code" width="200">
+<br>
+Volgens feedback van Sanne:
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Definitieve schets V1.1 (moet nog meer details bij).jpg" alt="schets bijna definitief" width="300">
 <br><br>
 
 light en dark mode practicum
