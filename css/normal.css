@@ -15,6 +15,29 @@
 
 html {
   color-scheme: light dark;
+
+  --background: white;
+  --color: midnightblue;
+
+  --background-button: dodgerblue;
+  --color-button: white;
+
+  @media (prefers-color-scheme: dark) {
+    color-scheme: light;
+
+    --background: dodgerblue;
+    --color: white;
+
+    --background-button: midnightblue;
+  }
+}
+
+html:has([value="light-theme"]:checked) {
+  color-scheme: light;
+}
+
+html:has([value="dark-theme"]:checked) {
+  color-scheme: dark;
 }
 
 /**************************
@@ -63,3 +86,16 @@ main {
 /**************************
 * MARK: Section ...
 **************************/
+
+button {
+  background: var(--brand-primary);
+  padding: var(--whitespace);
+}
+
+button:hover {
+  background: var(--brand-accent);
+}
+
+button:active {
+  translate: 0 1px;
+}
