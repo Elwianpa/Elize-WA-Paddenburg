@@ -86,16 +86,16 @@ Met wat voor slechte gevolgen er allemaal komen van het internet/web, is mijn me
 Volgens feedback van Sanne:
 <br>
 <img src="../Elize-WA-Paddenburg/readme-images/Definitieve schets V1.1 (moet nog meer details bij).jpg" alt="schets bijna definitief" width="300">
-<br><br>
 
-light en dark mode practicum
-
-Practicum mooie kleur en gradients
 <br><br>
 <u>Mobile-first schetsen en mini-style guide</u>
 <br>
-<img src="../Elize-WA-Paddenburg/readme-images/Mobile schetsen.jpg" alt="mobile schetsen" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Mobile schetsen.jpg" alt="mobile schetsen" width="500">
 <img src="../Elize-WA-Paddenburg/readme-images/Definitieve schets V2.jpg" alt="definitieve schets v2" width="300">
+<br><br>
+Style guide
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Style Guide.png" alt="Style guide" width="500">
 <br><br>
 
 <u>Check out (WO W2)</u>
