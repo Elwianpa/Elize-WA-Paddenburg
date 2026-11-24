@@ -5,16 +5,22 @@
 <br>
 Toen ik aan de slag ging met de uitwerking van V1, merkte ik dat het echt te veel zou zijn voor de komende weken. Daarom heb ik het iets simpeler gemaakt en weet ik beter hoe ik dit aan ga pakken met CSS. Nog steeds kan het ingewikkeld zijn, maar nu ligt de uitdaging iets boven mijn niveau, en niet te hoog.
 Mijn idee is om allemaal bubbels klikbaar te maken en dat het gaat naar pagina's die gaan over mijn favoriete games, series, muziek etc. Dat is veel sneller te doen in plaats van te leren om 3 verschillende spellen te programmeren terwijl ik dat nog nooit gedaan heb.
-<img src="../Elize-WA-Paddenburg/readme-images/Twan 3.png" alt="poppetje met meer info" width="150">
+<img src="../Elize-WA-Paddenburg/readme-images/Schets V2.jpg" alt="Schets V2" width="300">
 <br><br>
 
-<u>Light en Dark mode</u>
+<u>Light en Dark mode oefeningen 1-3 + toepassing op digital garden</u>
 <br><br>
+<img src="../Elize-WA-Paddenburg/readme-images/Light en dark themes oefening 1.png" alt="Light en Dark thema 1" width="200">
+<img src="../Elize-WA-Paddenburg/readme-images/Light en dark themes oefening 2.png" alt="Light en Dark thema 2" width="200">
+<img src="../Elize-WA-Paddenburg/readme-images/Light en dark themes oefening 3.png" alt="Light en Dark thema 3" width="200">
+<br>
+Toepassing light en dark thema op digital garden
+<img src="../Elize-WA-Paddenburg/readme-images/Toepassing dark theme op digital garden.png" alt="Light en Dark thema toepassing" width="300">
 
-<u>Code for responsiveness</u>
+<u>Kleur en Gradients oefening 1,2</u>
 <br><br>
-<u>Practicum Everything Images</u>
-<br><br>
+<img src="../Elize-WA-Paddenburg/readme-images/Kleur en gradients oefening 1.png" alt="Kleur en gradients oefening 1" width="300">
+<img src="../Elize-WA-Paddenburg/readme-images/Kleur en gradients oefening 2.png" alt="Kleur en gradients oefening 2" width="300">
 
 Gelezen:
 <br>
