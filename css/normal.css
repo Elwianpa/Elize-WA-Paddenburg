@@ -16,20 +16,11 @@
 html {
   color-scheme: light dark;
 
-  --background: white;
-  --color: midnightblue;
-
-  --background-button: dodgerblue;
-  --color-button: white;
-
-  @media (prefers-color-scheme: dark) {
-    color-scheme: light;
-
-    --background: dodgerblue;
-    --color: white;
-
-    --background-button: midnightblue;
-  }
+  /* jouw thema's - light en dark */
+  --background: light-dark(Lavender, Indigo);
+  --color: light-dark(Indigo, Lavender);
+  --border-color: light-dark(GhostWhite, RebeccaPurple);
+  --color-h1: light-dark(MediumVioletRed, HotPink);
 }
 
 html:has([value="light-theme"]:checked) {
@@ -57,6 +48,13 @@ img {
 body {
   font-family: "Comic Relief", system-ui;
   background-image: url(../readme-images/Definitieve schets V2 1.svg);
+  /* jouw kleurtjes en styling */
+  /* background voor de body */
+  background-color: var(--background);
+  /* color voor alle tekst */
+  color: var(--color);
+  /* border-color voor de body */
+  border-color: var(--border-color);
 }
 
 /**************************

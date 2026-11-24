@@ -1,6 +1,16 @@
 **_24 November - Huiswerk_**
 <br><br>
 
+<u>Schets V2</u>
+<br>
+Toen ik aan de slag ging met de uitwerking van V1, merkte ik dat het echt te veel zou zijn voor de komende weken. Daarom heb ik het iets simpeler gemaakt en weet ik beter hoe ik dit aan ga pakken met CSS. Nog steeds kan het ingewikkeld zijn, maar nu ligt de uitdaging iets boven mijn niveau, en niet te hoog.
+Mijn idee is om allemaal bubbels klikbaar te maken en dat het gaat naar pagina's die gaan over mijn favoriete games, series, muziek etc. Dat is veel sneller te doen in plaats van te leren om 3 verschillende spellen te programmeren terwijl ik dat nog nooit gedaan heb.
+<img src="../Elize-WA-Paddenburg/readme-images/Twan 3.png" alt="poppetje met meer info" width="150">
+<br><br>
+
+<u>Light en Dark mode</u>
+<br><br>
+
 <u>Code for responsiveness</u>
 <br><br>
 <u>Practicum Everything Images</u>
