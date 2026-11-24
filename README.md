@@ -9,19 +9,36 @@ Mijn idee is om allemaal bubbels klikbaar te maken en dat het gaat naar pagina's
 <img src="../Elize-WA-Paddenburg/readme-images/Schets V2.jpg" alt="Schets V2" width="300">
 <br><br>
 
+<u>Everything images</u>
+<br><br>
+<img src="../Elize-WA-Paddenburg/readme-images/Oefening content images.png" alt="content images" width="400">
+<br> Content images <br>
+<img src="../Elize-WA-Paddenburg/readme-images/Oefening background images.png" alt="background images" width="300">
+<br> Background images <br>
+<img src="../Elize-WA-Paddenburg/readme-images/SVG spelen.png" alt="svg spelen" width="400">
+<br> Svg probeersel
+<br><br>
+
 <u>Light en Dark mode oefeningen 1-3 + toepassing op digital garden</u>
 <br><br>
 <img src="../Elize-WA-Paddenburg/readme-images/Light en dark themes oefening 1.png" alt="Light en Dark thema 1" width="400">
+<br> Oefening 1 <br>
 <img src="../Elize-WA-Paddenburg/readme-images/Light en dark themes oefening 2.png" alt="Light en Dark thema 2" width="400">
+<br> Oefening 2 <br>
 <img src="../Elize-WA-Paddenburg/readme-images/Light en dark themes oefening 3.png" alt="Light en Dark thema 3" width="300">
+<br> Oefening 3
 <br><br>
 Toepassing light en dark thema op digital garden
+<br>
 <img src="../Elize-WA-Paddenburg/readme-images/Toepassing dark theme op digital garden.png" alt="Light en Dark thema toepassing" width="300">
+<br>
 
 <u>Kleur en Gradients oefening 1,2</u>
 <br><br>
 <img src="../Elize-WA-Paddenburg/readme-images/Kleur en gradients oefening 1.png" alt="Kleur en gradients oefening 1" width="300">
+<br> Oefening 1 <br>
 <img src="../Elize-WA-Paddenburg/readme-images/Kleur en gradients oefening 2.png" alt="Kleur en gradients oefening 2" width="300">
+<br> Oefening 2 <br>
 
 Gelezen:
 <br>
@@ -215,9 +232,13 @@ Aantekeningen:
 Oefeningen 1-4:
 <br>
 <img src="../Elize-WA-Paddenburg/readme-images/Grids en Media queries oef 1.png" alt="aantekeningen grids 1" width="300">
+<br> Oefening 1 <br>
 <img src="../Elize-WA-Paddenburg/readme-images/Grids en Media queries oef 2.png" alt="aantekeningen grids 2" width="300">
+<br> Oefening 2 <br>
 <img src="../Elize-WA-Paddenburg/readme-images/Grids en Media queries oef 3.png" alt="aantekeningen grids 3" width="300">
+<br> Oefening 3 <br>
 <img src="../Elize-WA-Paddenburg/readme-images/Grids en Media queries oef 4.png" alt="aantekeningen grids 4" width="300">
+<br> Oefening 4
 
 <br> <br>
 
