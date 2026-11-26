@@ -1,6 +1,24 @@
 **_26 November - Huiswerk_**
 <br> <br>
+<u>HTML en CSS eerste pagina is af!</u>
+<br>
+Dit was moeilijk en koste veel tijd en energie. Ik heb vooral WW3 schools gebruikt als hulpmiddel. Alle afbeeldingen zijn van mij behalve de hyrax. De illustratie heb ik zelf gemaakt en dat is mijn kat.
+<br> <br>
+Light en dark mode:
+<br> <img src="../Elize-WA-Paddenburg/readme-images/Light mode DG.png" alt="Light mode" width="300">
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Dark mode DG.png" alt="Dark mode" width="300">
+<br>
+Responsiveness:
+<br> <img src="../Elize-WA-Paddenburg/readme-images/Responsiveness.png" alt="Responsive" width="300">
+<br>
+Color scheme planning: <br> <img src="../Elize-WA-Paddenburg/readme-images/Planning color scheme.png" alt="Color scheme planning" width="300">
+<br>
+Schets: <br>
+<img src="../Elize-WA-Paddenburg/readme-images/Schets V2.jpg" alt="Schets V2" width="300">
+<br>
 
+<br><br>
 **_24 November - Huiswerk_**
 <br><br>
 
