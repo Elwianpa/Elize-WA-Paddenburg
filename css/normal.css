@@ -106,21 +106,8 @@ main {
 }
 
 /**************************
-* MARK: Section ...
+* MARK: Section H1
 **************************/
-
-button {
-  background: var(--brand-primary);
-  padding: var(--whitespace);
-}
-
-button:hover {
-  background: var(--brand-accent);
-}
-
-button:active {
-  translate: 0 1px;
-}
 
 h1:nth-of-type(1) {
   position: relative;
@@ -156,6 +143,10 @@ h1:nth-of-type(1)::after {
   border-right: 0;
   filter: drop-shadow(15px 15px 0 #c71585);
 }
+
+/**************************
+* MARK: Section Hyrax Image
+**************************/
 
 img:nth-of-type(1) {
   position: relative;
