@@ -160,5 +160,4 @@ h1:nth-of-type(1)::after {
 img:nth-of-type(1) {
   position: relative;
   transform: translate(210px, -250px);
-  width: 500px;
 }
