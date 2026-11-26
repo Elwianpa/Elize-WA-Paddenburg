@@ -9,6 +9,20 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Pixelifysans";
+  src: url(../fonts/PixelifySans-VariableFont_wght.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Geist";
+  src: url(../fonts/GeistPixel-Regular-VariableFont_ELSH.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
 /**************************
 * MARK: Custom properties
 **************************/
@@ -46,11 +60,14 @@ img {
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
+  font-family: "Geist", system-ui;
   background-image: url(../readme-images/Definitieve schets V2 1.svg);
   /* jouw kleurtjes en styling */
   /* background voor de body */
   background-color: var(--background);
+  background-image: radial-gradient(#e763b6 2px, transparent 1.5px);
+  background-size: 18px 18px;
+  background-attachment: fixed;
   /* color voor alle tekst */
   color: var(--color);
   /* border-color voor de body */
@@ -62,6 +79,11 @@ body {
 **************************/
 
 header {
+  text-align: center;
+}
+
+label {
+  font-family: "Geist";
 }
 
 /**************************
@@ -80,6 +102,7 @@ main {
   margin: auto;
   display: grid;
   gap: 1em;
+  background-image:;
 }
 
 /**************************
@@ -97,4 +120,44 @@ button:hover {
 
 button:active {
   translate: 0 1px;
+}
+
+h1:nth-of-type(1) {
+  position: relative;
+  display: grid;
+  font-family: "Pixelifysans";
+  -webkit-text-fill-color: white;
+  place-items: center;
+  font-size: 2.3em;
+  line-height: 40px;
+  text-shadow: 5px 5px mediumvioletred;
+  padding: 25px 50px;
+  width: 400px;
+  border: 2px solid #e763b6;
+  box-shadow:
+    5px 5px 0 #c71585,
+    10px 10px 0 #c71585,
+    15px 15px 0 #c71585;
+  border-radius: 30px;
+  display: inline-block;
+  background-color: #e763b6;
+  z-index: 1;
+}
+
+h1:nth-of-type(1)::after {
+  content: "";
+  position: absolute;
+  bottom: -30px;
+  right: 35px;
+  width: 0;
+  height: 0;
+  border-top: 30px solid #e763b6;
+  border-left: 30px solid transparent;
+  border-right: 0;
+  filter: drop-shadow(15px 15px 0 #c71585);
+}
+
+img:nth-of-type(1) {
+  translate: 210px -250px;
+  width: 500px;
 }
