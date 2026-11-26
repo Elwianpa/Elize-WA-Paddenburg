@@ -31,10 +31,13 @@ html {
   color-scheme: light dark;
 
   /* jouw thema's - light en dark */
-  --background: light-dark(Lavender, Indigo);
+  --background: light-dark(Lavender, #4b0082);
+  --dots: light-dark(#fab0e6, #e763b6);
   --color: light-dark(Indigo, Lavender);
-  --border-color: light-dark(GhostWhite, RebeccaPurple);
-  --color-h1: light-dark(MediumVioletRed, HotPink);
+  --border-color: light-dark(#f8f8ff, #663399);
+  --color-h2: light-dark(MediumVioletRed, HotPink);
+  --bubble: light-dark(#fd9268, #fd9268);
+  --bubbleshadow: light-dark(#bb444a, #bb444a);
 }
 
 html:has([value="light-theme"]:checked) {
@@ -65,7 +68,7 @@ body {
   /* jouw kleurtjes en styling */
   /* background voor de body */
   background-color: var(--background);
-  background-image: radial-gradient(#e763b6 2px, transparent 1.5px);
+  background-image: radial-gradient(var(--dots) 2px, transparent 1.5px);
   background-size: 18px 18px;
   background-attachment: fixed;
   /* color voor alle tekst */
@@ -151,4 +154,42 @@ h1:nth-of-type(1)::after {
 img:nth-of-type(1) {
   position: relative;
   transform: translate(210px, -250px);
+}
+
+/**************************
+* MARK: Section Bubbles
+**************************/
+
+ul {
+  display: flex;
+  gap: 25px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li a {
+  width: 75px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--bubble);
+  border: 2px solid var(--bubbleshadow);
+  border-radius: 50%;
+  box-shadow: 5px 5px 0 var(--bubbleshadow);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+li img {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
+
+li a:hover {
+  transform: translate(3px, 3px);
+  box-shadow: 2px 2px 0 var(--bubbleshadow);
 }
