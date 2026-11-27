@@ -1,5 +1,34 @@
 **_27 November - Huiswerk_**
 <br>
+<u>Zelfevaluatie</u>
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Zelfevaluatie formulier.jpg" alt="Zelfevaluatie 1" width="300">
+<br><br>
+<u>Retrospect 1</u>
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Retrospect 1-2.jpg" alt="Retrospect 1-2" width="300">
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Retrospect 3.jpg" alt="Retrospect 3" width="300">
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Retrospect 4.jpg" alt="Retrospect 4" width="300">
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Retrospect 5.jpg" alt="Retrospect 5" width="300">
+<br>
+
+Wat belangrijke punten:
+
+- Orienteren en begrijpen: Ik was helemaal nieuw met HTML en CSS dus ik heb de basis geleerd daarvan door de workshops. Je kan het terugzien in mijn pagina door bijvoorbeeld de dark/light mode en de speechbubble komt van de posters opdracht (2e practica CSS Fonts).
+- Verbeelden en conceptualiseren: Ik had eerst het idee om een geillustreerde kamer te maken met allemaal games die je kan spelen. Dat was onrealistisch met de hoeveelheid tijd die we hebben en omdat ik nog een beginner ben.
+- Prototypen en uitwerken: Ik liep wel eens tegen wat aan tijdens het werken. Dan zocht ik het op op WW3Schools. Bijvoorbeeld dat ik niet goed wist hoe ik de positie kon veranderen van de klipdas op mijn pagina. En voor moeilijkere dingen vroeg ik mijn broer (elektrotechniek), zoals dat mijn klipdas niet zichtbaar was op de website. Het moest op een andere manier erin gezet worden, daarnaast stond die in het verkeerde images mapje.
+- Evalueren: De ontwerptheorie les heeft geholpen met een veel betere hierarchie en grid ontwerpen.
+- Georganiseerd en professioneel: De werkdruk ligt veel hoger dan voorheen dus het is voor mij wel lastig. Ik moet mijn hele leven omgooien om dit te kunnen dragen.
+- Persoonlijk en geengageerd: Je ziet mijn persoonlijke stijl terug door de kleur paars en retro schattig patroon. Daarnaast kan je veel over mij leren: favo games, muziek, kunst en dat ik klipdassen en katten leuk vind.
+  <br><br>
+  <u>Check out: verbeterplan </u>
+  <br>
+  Schets van betere hierarchie en grid toepassen op website.
+
+<br><br>
 Check out ontwerpprincipes:
 <br><br>
 Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
