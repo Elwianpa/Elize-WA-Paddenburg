@@ -1,3 +1,24 @@
+**_27 November - Huiswerk_**
+<br>
+Check out ontwerpprincipes:
+<br><br>
+Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+<br> - symmetry, good figure, similarity, hierarhie, contrast, balans, scale etc. Symmetrie: gelijk aan beide kanten (spiegelbeeld). Hierarchie: wat belangrijker is, is groter of wordt de nadruk opgelegd met kleur/typografie etc. Contrast: laat een verschil zien tussen elementen.
+<br>
+Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+<br> - Vrijheid om te spelen hoe je items neerzet op de grid, kan ook meerdere kolommen zijn. Alles staat op de grid en zorgt voor balans/rust. Het is niet willekeurig geplaatst.
+<br>
+Welk principe neem je mee in een laatste iteratie van je eigen Garden?
+<br> - Vooral hierarchie en grid. Door dat in mijn hoofd te houden terwijl ik schetste, ben ik op een veel beter ontwerp gekomen. Die 2 aspecten zijn ook bedoeld voor het hele plaatje. Het hele plaatje wordt zo overzichtelijker.
+<br><br>
+<u>Opdrachten 18-21 met ontwerptheorie schetsen</u>
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Schets opdracht 18-19.jpg" alt="Schets opdracht 18-19" width="300">
+<br>
+<img src="../Elize-WA-Paddenburg/readme-images/Schets opdracht 20-21.jpg" alt="Schets opdracht 18-19" width="300">
+<br>
+Het was leuk om te doen. Door een ontwerpprincipe in mijn hoofd te komen ben ik op nieuwe ideeen gekomen die ik kan gebruiken om aanpassingen te maken aan mijn website. Vooral de "grid" tekenopdracht heeft me geholpen met inzien hoe ik het goed kan gebruiken. En als ik een grid gebruik is het ook makkelijker met placement en responsiveness. Het heeft goed geholpen! Nu zijn alle belangrijke aspecten ook groter en is het veel duidelijker wat mensen met mijn website horen te doen. De drie grote knoppen wil ik nu aan de zijkant zetten in een rij in plaats van aan de onderkant van de pagina bijvoorbeeld.
+<br><br>
 **_26 November - Huiswerk_**
 <br> <br>
 <u>HTML en CSS eerste pagina is af!</u>
